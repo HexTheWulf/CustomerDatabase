@@ -1,1 +1,10 @@
 c:\users\adrian\documents\visual studio 2015\Projects\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.exe
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.pdb
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.Form1.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.Form2.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.Properties.Resources.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.exe
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.pdb

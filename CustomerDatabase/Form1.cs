@@ -13,5 +13,14 @@ namespace CustomerDatabase {
         public Form1() {
             InitializeComponent();
         }
+
+        private void addACustomerToolStripMenuItem_Click(object sender, EventArgs e) {
+            Form2 f2 = new Form2();
+            f2.ShowDialog();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e) {
+            Application.Exit();
+        }
     }
 }
