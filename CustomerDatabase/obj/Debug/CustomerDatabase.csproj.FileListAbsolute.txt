@@ -8,3 +8,5 @@ C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerD
 C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.csproj.GenerateResource.Cache
 C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.exe
 C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.pdb
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\CustomerDatabase\CustomerDatabase\bin\Debug\MySql.Data.xml

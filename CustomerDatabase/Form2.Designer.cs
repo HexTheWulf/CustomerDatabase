@@ -103,6 +103,7 @@
             this.Controls.Add(this.AddCustomer);
             this.Name = "Form2";
             this.Text = "Add A Customer";
+            this.Load += new System.EventHandler(this.Form2_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
